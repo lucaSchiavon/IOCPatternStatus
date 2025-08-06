@@ -1,1 +1,0 @@
-Applicazione dell IOC mediante un metodo abstract che viene implementato esternamente (utile tecnica per implementare librerie in modo da poter definire la logica di metodi che poi vengono chiamati internamente da classi dove sono stati definiti come abstract
