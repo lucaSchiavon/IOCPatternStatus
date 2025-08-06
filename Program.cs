@@ -13,6 +13,7 @@ namespace TestAdvacedCsharpCode
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+           
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -32,6 +33,17 @@ namespace TestAdvacedCsharpCode
 
             app.UseAuthorization();
 
+
+            //app.UseMiddleware<RequestLoggerMiddleware>();
+
+            app.UseRequestLogger(options =>
+            {
+                options.Logger = app.Services.GetRequiredService<ILogger<RequestLoggerMiddleware>>();
+                options.LogStart = () => Console.WriteLine("Log is starting");
+                options.LogDetails = context => Console.WriteLine($"Metodo: {context.Request.Method}, Path: {context.Request.Path}");
+                options.FormatLogEntry = context => $"{DateTime.UtcNow} - {context.Request.Method} {context.Request.Path}";
+            });
+
             //TrasformMiddlewareOptions options = new TrasformMiddlewareOptions { Transformer = new UppercaseTransformer() };
             ////options.Transformer = new UppercaseTransformer();
             //app.UseMiddleware<TransformMiddleware>(options);
@@ -39,6 +51,8 @@ namespace TestAdvacedCsharpCode
             {
                 options.Transformer = new UppercaseTransformer();
             });
+
+           
 
             app.MapControllers();
 

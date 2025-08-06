@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestAdvacedCsharpCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+590f34d98484099b1d82d87e7c3d68f0e9926d05")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestAdvacedCsharpCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestAdvacedCsharpCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

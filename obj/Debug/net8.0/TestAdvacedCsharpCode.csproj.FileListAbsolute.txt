@@ -33,3 +33,39 @@ C:\Users\l.schiavon\Desktop\Test\TestAdvacedCsharpCode\obj\Debug\net8.0\refint\T
 C:\Users\l.schiavon\Desktop\Test\TestAdvacedCsharpCode\obj\Debug\net8.0\TestAdvacedCsharpCode.pdb
 C:\Users\l.schiavon\Desktop\Test\TestAdvacedCsharpCode\obj\Debug\net8.0\TestAdvacedCsharpCode.genruntimeconfig.cache
 C:\Users\l.schiavon\Desktop\Test\TestAdvacedCsharpCode\obj\Debug\net8.0\ref\TestAdvacedCsharpCode.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\appsettings.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\TestAdvacedCsharpCode.staticwebassets.endpoints.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\TestAdvacedCsharpCode.exe
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\TestAdvacedCsharpCode.deps.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\TestAdvacedCsharpCode.runtimeconfig.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\TestAdvacedCsharpCode.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\TestAdvacedCsharpCode.pdb
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.csproj.AssemblyReference.cache
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.AssemblyInfoInputs.cache
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.AssemblyInfo.cs
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.sourcelink.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\scopedcss\bundle\TestAdvacedCsharpCode.styles.css
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdva.21825889.Up2Date
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\refint\TestAdvacedCsharpCode.dll
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.pdb
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\TestAdvacedCsharpCode.genruntimeconfig.cache
+C:\Users\l.schiavon\Desktop\Varie Luca Schiavon\IOCPatternStatus\obj\Debug\net8.0\ref\TestAdvacedCsharpCode.dll

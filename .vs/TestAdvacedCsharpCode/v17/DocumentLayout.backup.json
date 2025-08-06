@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\",
+  "WorkspaceRootPath": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\test\\testadvacedcsharpcode\\middlewares\\transformmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:middlewares\\transformmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\test\\testadvacedcsharpcode\\middlewares\\options\\trasformmiddlewareoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:middlewares\\options\\trasformmiddlewareoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\test\\testadvacedcsharpcode\\extensions\\transformmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:extensions\\transformmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\test\\testadvacedcsharpcode\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\test\\testadvacedcsharpcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\test\\testadvacedcsharpcode\\concrete\\uppercasetrasformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\extensions\\requestloggermiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:extensions\\requestloggermiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\extensions\\transformmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:extensions\\transformmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\middlewares\\transformmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:middlewares\\transformmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\base\\responsetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:base\\responsetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\concrete\\uppercasetrasformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:concrete\\uppercasetrasformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\test\\testadvacedcsharpcode\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\middlewares\\options\\trasformmiddlewareoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:middlewares\\options\\trasformmiddlewareoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\middlewares\\options\\requestloggermiddlewareoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:middlewares\\options\\requestloggermiddlewareoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\middlewares\\requestloggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:middlewares\\requestloggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|c:\\users\\l.schiavon\\desktop\\varie luca schiavon\\iocpatternstatus\\concrete\\lowercasetrasformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9ADD29-5D4A-4D22-B4BB-2A3DA32B436F}|TestAdvacedCsharpCode.csproj|solutionrelative:concrete\\lowercasetrasformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,92 +66,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransformMiddlewareExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Extensions\\TransformMiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\TransformMiddlewareExtensions.cs",
-              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Extensions\\TransformMiddlewareExtensions.cs",
-              "RelativeToolTip": "Extensions\\TransformMiddlewareExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:21:40.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrasformMiddlewareOptions.cs",
-              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Middlewares\\Options\\TrasformMiddlewareOptions.cs",
-              "RelativeDocumentMoniker": "Middlewares\\Options\\TrasformMiddlewareOptions.cs",
-              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Middlewares\\Options\\TrasformMiddlewareOptions.cs",
-              "RelativeToolTip": "Middlewares\\Options\\TrasformMiddlewareOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:44:58.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TransformMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Middlewares\\TransformMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\TransformMiddleware.cs",
               "RelativeDocumentMoniker": "Middlewares\\TransformMiddleware.cs",
-              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Middlewares\\TransformMiddleware.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\TransformMiddleware.cs",
               "RelativeToolTip": "Middlewares\\TransformMiddleware.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:30:26.296Z",
+              "WhenOpened": "2025-08-06T12:09:39.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LowercaseTrasformer.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Concrete\\LowercaseTrasformer.cs",
+              "RelativeDocumentMoniker": "Concrete\\LowercaseTrasformer.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Concrete\\LowercaseTrasformer.cs",
+              "RelativeToolTip": "Concrete\\LowercaseTrasformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:42:50.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UppercaseTrasformer.cs",
-              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Concrete\\UppercaseTrasformer.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Concrete\\UppercaseTrasformer.cs",
               "RelativeDocumentMoniker": "Concrete\\UppercaseTrasformer.cs",
-              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Concrete\\UppercaseTrasformer.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Concrete\\UppercaseTrasformer.cs",
               "RelativeToolTip": "Concrete\\UppercaseTrasformer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:34:04.555Z"
+              "WhenOpened": "2025-08-06T09:42:34.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T08:29:29.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RequestLoggerMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Extensions\\RequestLoggerMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\RequestLoggerMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Extensions\\RequestLoggerMiddlewareExtensions.cs",
+              "RelativeToolTip": "Extensions\\RequestLoggerMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:02:34.144Z",
+              "WhenOpened": "2025-08-06T10:35:09.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestLoggerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\RequestLoggerMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\RequestLoggerMiddleware.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\RequestLoggerMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\RequestLoggerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:28:05.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T10:50:56.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseTransformer.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Base\\ResponseTransformer.cs",
+              "RelativeDocumentMoniker": "Base\\ResponseTransformer.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Base\\ResponseTransformer.cs",
+              "RelativeToolTip": "Base\\ResponseTransformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:42:59.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestLoggerMiddlewareOptions.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\Options\\RequestLoggerMiddlewareOptions.cs",
+              "RelativeDocumentMoniker": "Middlewares\\Options\\RequestLoggerMiddlewareOptions.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\Options\\RequestLoggerMiddlewareOptions.cs",
+              "RelativeToolTip": "Middlewares\\Options\\RequestLoggerMiddlewareOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:01:57.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestAdvacedCsharpCode\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TrasformMiddlewareOptions.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\Options\\TrasformMiddlewareOptions.cs",
+              "RelativeDocumentMoniker": "Middlewares\\Options\\TrasformMiddlewareOptions.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Middlewares\\Options\\TrasformMiddlewareOptions.cs",
+              "RelativeToolTip": "Middlewares\\Options\\TrasformMiddlewareOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:02:26.602Z"
+              "WhenOpened": "2025-08-06T10:01:11.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "7f69f7ab-1c93-4d81-80be-c0bb8440c157",
+        "Display": 0,
+        "X": 310,
+        "Y": 96,
+        "Width": 1574,
+        "Height": 728,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransformMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Extensions\\TransformMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\TransformMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\l.schiavon\\Desktop\\Varie Luca Schiavon\\IOCPatternStatus\\Extensions\\TransformMiddlewareExtensions.cs",
+              "RelativeToolTip": "Extensions\\TransformMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:15:54.149Z",
+              "EditorCaption": ""
             }
           ]
         }
